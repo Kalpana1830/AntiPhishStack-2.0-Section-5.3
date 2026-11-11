@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+tldextract
+transformers
+torch
+tensorflow
+catboost
+numpy
+Flask
+shap

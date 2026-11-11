@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+# Keep private/larger inputs and generated weights out of the draft repository.
+data/*
+!data/.gitkeep
+models/*
+!models/.gitkeep
