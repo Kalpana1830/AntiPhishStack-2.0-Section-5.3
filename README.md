@@ -80,4 +80,4 @@ It returns the submitted URL and the label selected by the code's `prediction ==
 
 ## Source note
 
-Implementation details are based on section 5.3 of the project report supplied for this task. This local draft has not been pushed to a public repository and should be reviewed by the credited authors before publication.
+Implementation details are based on section 5.3 of the project report supplied for this task. This repository reconstructs the code snippets in section 5.3 of the supplied project report. The limitations and missing components described above remain part of this draft.
