@@ -1,6 +1,6 @@
 # AntiPhishStack 2.0 — Section 5.3 Implementation Draft
 
-**Status: local draft for author review. Not published or pushed to GitHub.**
+**Status: Published on GitHub — Section 5.3 implementation draft.**
 
 This repository draft organizes the code snippets in section 5.3, “Method of Implementation,” of the supplied project report into Python modules. It is a reconstruction of those snippets, not a complete or validated end-to-end phishing-detection system.
 
